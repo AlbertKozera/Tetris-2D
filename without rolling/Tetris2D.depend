@@ -1,0 +1,386 @@
+# depslib dependency file v1.0
+1540068894 source:c:\users\alfu\desktop\gene\tetris2d\main.cpp
+	<allegro.h>
+	<iostream>
+	"Menu.hpp"
+
+1539977538 c:\users\alfu\desktop\gene\tetris2d\menu.cpp
+	<main.cpp>
+
+1540068963 source:c:\users\alfu\desktop\gene\tetris2d\menu.cpp
+	<allegro.h>
+	<iostream>
+	"Menu.hpp"
+
+1540068379 c:\users\alfu\desktop\gene\tetris2d\menu.hpp
+
+1540251052 source:d:\users\student\desktop\tetris2d\main.cpp
+	<allegro.h>
+	<iostream>
+	"Menu.hpp"
+
+1540068379 d:\users\student\desktop\tetris2d\menu.hpp
+
+1540904850 source:d:\users\student\desktop\tetris2d\menu.cpp
+	<allegro.h>
+	<iostream>
+	"Menu.hpp"
+
+1541788250 source:c:\users\piotr\desktop\tetris2d\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541706804 c:\users\piotr\desktop\tetris2d\menu.hpp
+	"tablica.hpp"
+
+1541714868 source:c:\users\piotr\desktop\tetris2d\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541097713 source:c:\users\alfu\desktop\waf\tetris2d\main.cpp
+	<allegro.h>
+	<iostream>
+	"Menu.hpp"
+
+1541177157 c:\users\alfu\desktop\waf\tetris2d\menu.hpp
+
+1541177085 source:c:\users\alfu\desktop\waf\tetris2d\menu.cpp
+	<allegro.h>
+	<iostream>
+	"Menu.hpp"
+
+1541867646 source:c:\users\alfu\desktop\tetris2d\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541867884 c:\users\alfu\desktop\tetris2d\menu.hpp
+	"tablica.hpp"
+
+1541867099 source:c:\users\alfu\desktop\tetris2d\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541867623 source:c:\users\alfu\desktop\tetris2d\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1541868016 c:\users\alfu\desktop\tetris2d\tablica.hpp
+
+1541796734 c:\users\piotr\desktop\tetris2d\tablica.hpp
+
+1541793805 source:c:\users\piotr\desktop\tetris2d\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1541282860 source:h:\tetris2d\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541509950 h:\tetris2d\menu.hpp
+	"tablica.hpp"
+
+1541275738 h:\tetris2d\tablica.hpp
+
+1541279214 source:h:\tetris2d\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1541876816 source:c:\users\alfu\desktop\tetris2d_beta1_0\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541877067 c:\users\alfu\desktop\tetris2d_beta1_0\menu.hpp
+	"tablica.hpp"
+
+1541878401 c:\users\alfu\desktop\tetris2d_beta1_0\tablica.hpp
+
+1541870494 source:c:\users\alfu\desktop\tetris2d_beta1_0\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541878401 source:c:\users\alfu\desktop\tetris2d_beta1_0\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1541876816 source:c:\users\piotr\desktop\tetris2d_beta1_1\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541877067 c:\users\piotr\desktop\tetris2d_beta1_1\menu.hpp
+	"tablica.hpp"
+
+1541885132 c:\users\piotr\desktop\tetris2d_beta1_1\tablica.hpp
+
+1541870494 source:c:\users\piotr\desktop\tetris2d_beta1_1\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541878401 source:c:\users\piotr\desktop\tetris2d_beta1_1\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1541889308 source:c:\users\alfu\desktop\pioter\tetris2d_beta1_1\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541877067 c:\users\alfu\desktop\pioter\tetris2d_beta1_1\menu.hpp
+	"tablica.hpp"
+
+1541888498 c:\users\alfu\desktop\pioter\tetris2d_beta1_1\tablica.hpp
+
+1541870494 source:c:\users\alfu\desktop\pioter\tetris2d_beta1_1\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541889102 source:c:\users\alfu\desktop\pioter\tetris2d_beta1_1\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1541870494 source:c:\users\piotr\desktop\tetris2d_beta_2_0\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541890287 c:\users\piotr\desktop\tetris2d_beta_2_0\menu.hpp
+	"tablica.hpp"
+
+1541890287 c:\users\piotr\desktop\tetris2d_beta_2_0\tablica.hpp
+
+1541899461 source:c:\users\alfu\desktop\tetris2d_beta_2_0\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541890287 c:\users\alfu\desktop\tetris2d_beta_2_0\menu.hpp
+	"tablica.hpp"
+
+1541900524 c:\users\alfu\desktop\tetris2d_beta_2_0\tablica.hpp
+
+1541898639 source:c:\users\alfu\desktop\tetris2d_beta_2_0\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541900519 source:c:\users\alfu\desktop\tetris2d_beta_2_0\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1541907898 source:c:\users\alfu\desktop\tetris2d_bez kolizji i obracania\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541890287 c:\users\alfu\desktop\tetris2d_bez kolizji i obracania\menu.hpp
+	"tablica.hpp"
+
+1541909406 c:\users\alfu\desktop\tetris2d_bez kolizji i obracania\tablica.hpp
+
+1541898639 source:c:\users\alfu\desktop\tetris2d_bez kolizji i obracania\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1541909838 source:c:\users\alfu\desktop\tetris2d_bez kolizji i obracania\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1542077387 source:c:\users\alfu\desktop\tetris2d_bez obracania\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1542077387 c:\users\alfu\desktop\tetris2d_bez obracania\menu.hpp
+	"tablica.hpp"
+
+1542077635 c:\users\alfu\desktop\tetris2d_bez obracania\tablica.hpp
+
+1542077631 source:c:\users\alfu\desktop\tetris2d_bez obracania\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1542077789 source:c:\users\alfu\desktop\tetris2d_bez obracania\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1542077388 source:g:\tetris2d_bez obracania\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1542077388 g:\tetris2d_bez obracania\menu.hpp
+	"tablica.hpp"
+
+1542077636 g:\tetris2d_bez obracania\tablica.hpp
+
+1542077632 source:g:\tetris2d_bez obracania\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
+1542104434 source:g:\tetris2d_bez obracania\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1542077388 source:h:\tetris2d_bez obracania\menu.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1542077388 h:\tetris2d_bez obracania\menu.hpp
+	"tablica.hpp"
+
+1542077636 h:\tetris2d_bez obracania\tablica.hpp
+
+1542112560 source:h:\tetris2d_bez obracania\main.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"menu.hpp"
+	"tablica.hpp"
+
+1542111544 source:h:\tetris2d_bez obracania\tablica.cpp
+	<allegro.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"tablica.hpp"
+
